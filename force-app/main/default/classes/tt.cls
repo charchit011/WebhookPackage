@@ -1,0 +1,1 @@
+public class tt{public static void hell(){}}
